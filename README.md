@@ -1,4 +1,4 @@
-# Data Analytics (3-Credit Course for MBA Students at IIFT) 
+# Data Analytics using R and Python
 
 Course Name: Data Analytics
 
