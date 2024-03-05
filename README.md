@@ -21,3 +21,7 @@ Main References:
 [2] Friedman J, Hastie T, Tibshirani R. (2009). The Elements of Statistical Learning. New York: Springer series in statistics. (Read the Free Online Copy from here (Second Edition): https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 [3] Course Notes of IITKgp: [https://web.stanford.edu/class/stats200/lectures.html](https://cse.iitkgp.ac.in/~dsamanta/courses/da/)
+
+[4] Raschka, Sebastian, and Vahid Mirjalili. Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2. Packt Publishing Ltd, 2019.
+
+[5] StatQuest: https://www.youtube.com/@statquest 
